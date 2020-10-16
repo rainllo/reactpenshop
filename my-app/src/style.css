@@ -1,0 +1,108 @@
+.ui.menu.borderless.topmenu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.container.topcontainer {
+  padding: 25px 50px 0 50px;
+}
+
+.ui.menu.fluid.vertical {
+  box-shadow: none;
+  border: none;
+}
+
+.titletext {
+  font-family: serif;
+  font-weight: lighter;
+  font-size: 70px;
+  color: black;
+}
+
+.slogantext {
+  font-family: serif;
+  margin-top: -15px;
+}
+
+.ui.image.titleimages {
+  width: 170px;
+}
+
+.shopcart {
+  font-size: 1.5em;
+}
+
+.dropdowntext {
+  font-size: 1.15rem;
+}
+
+.ui.menu.borderless.navmenu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.container.boxmenus {
+  padding: 55px 100px 20px 100px;
+}
+
+.ui.segment.boxsegment {
+  background-color: #f4f4f4;
+}
+
+.ui.segment.imagesegment {
+  background-color: #f4f4f4;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.image.boxes {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5px;
+  width: 50%;
+}
+
+.ui.segment.textsegment {
+  background-color: #f4f4f4;
+  font-size: 1.1rem;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.menu.borderless.footermenu {
+  background-color: #f4f4f4;
+  padding: 20px 260px 0 260px;
+}
+
+.footertitle {
+  font-size: 22px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.footertext {
+  color: #666564;
+  font-size: 15px;
+}
+
+.ui.button.socialbutton {
+  background-color: white;
+  margin-right: 15px;
+}
+
+.copyrighttext {
+  font-weight: bold;
+  font-size: 11px;
+  margin-right: -10px;
+}
+
+.sitenametext {
+  font-size: 11px;
+  margin-left: -10px;
+}
+
+.disclaimertext {
+  font-size: 11px;
+  margin-top: -30px;
+}
